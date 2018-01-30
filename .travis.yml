@@ -1,2 +1,5 @@
 language: objective-c
 osx_image: xcode9
+env:
+  global:
+  - APPNAME: PgySDKDemo
