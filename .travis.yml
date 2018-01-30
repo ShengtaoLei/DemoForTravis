@@ -4,3 +4,4 @@ env:
   global:
   - APPNAME=PgySDKDemo
   - PROFILE_NAME=sdk_demo
+  - DEVELOPER_NAME=iPhone Distribution: shengtao lei (DG37YK9PRK)
