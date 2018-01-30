@@ -3,3 +3,4 @@ osx_image: xcode9
 env:
   global:
   - APPNAME: PgySDKDemo
+  - DEVELOPER_NAME: iPhone Distribution: shengtao lei (DG37YK9PRK)
